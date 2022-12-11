@@ -1,0 +1,14 @@
+$ cd /
+$ ls
+dir gqcclj
+dir lmtpm
+dir nhqwt
+dir qcq
+dir vwqwlqrt
+$ cd gqcclj
+$ ls
+62425 dqp.gjm
+174181 hrtw.qsd
+273712 pflp.mdw
+169404 zlthnlhf.mtn
+180878 zprprf
